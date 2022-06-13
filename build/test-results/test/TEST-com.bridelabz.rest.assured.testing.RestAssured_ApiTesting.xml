@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridelabz.rest.assured.testing.RestAssured_ApiTesting" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-13T07:19:20" hostname="DEEPAK" time="15.924">
+  <properties/>
+  <testcase name="playlist_UpdateDetails" classname="com.bridelabz.rest.assured.testing.RestAssured_ApiTesting" time="15.924"/>
+  <system-out><![CDATA[-----------Update Playlist Details--------------
+{
+    "error": {
+        "status": 400,
+        "message": "Boolean value must be either true or false"
+    }
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

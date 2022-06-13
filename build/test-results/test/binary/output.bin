@@ -1,0 +1,7 @@
+2-----------Update Playlist Details--------------
+{
+    "error": {
+        "status": 400,
+@        "message": "Boolean value must be either true or false"
+    }
+}
